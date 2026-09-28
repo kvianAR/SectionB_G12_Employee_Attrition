@@ -1,5 +1,9 @@
 # Employee Attrition Analytics & Workforce Insights
 
+**Team project / fork** · [Original repository](https://github.com/oksaumya/Employee_Attrition_Analysis) · [Dashboard files](dashboard) · [Report files](documentation) · [Presentation](presentation)
+
+This repository is Aditya Ranjan’s fork of the Section B Group 12 team project. The original authors and team retain credit. Individual contributions are not specified in the available project documentation.
+
 ## 📌 Project Overview
 Employee attrition directly impacts organizational cost, productivity, and team stability.  
 This project performs an **industry-style HR analytics study** using structured employee data to uncover:
@@ -178,7 +182,7 @@ Future analytical improvements:
 
 ---
 
-## 🌐 Project Resourses
+## 🌐 Project Resources
 
 👉 **Google docs dataset:**  
 https://docs.google.com/spreadsheets/d/11k6a7roDlZMBnM63qBJszrIvSV6clFQgL7Gq24U1zqo
